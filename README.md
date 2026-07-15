@@ -5,4 +5,4 @@
 powershell -NoProfile -ExecutionPolicy AllSigned -Command "& ([scriptblock]::Create((irm https://server2agent.com/s/install.ps1)))"
 
 
-A*TDCYDMNQ6TPFQMCBK46GHFR9M*Z
+A*TDCYDMNQ6TPFQMCBK46GHFR9MZ
